@@ -9,7 +9,7 @@ namespace IfoodPirata
 
             List<Lanche> lanches = new();
             List<Ingrediente> ingredientes = new();
-            /*ingredientes.Add(new Ingrediente("ovo", 1.50 , 1 , TipoMedida.Unidade));*/
+            
 
 
 
