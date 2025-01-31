@@ -1,10 +1,11 @@
-﻿using System;
+﻿using IfoodPirata.entity.@enum;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IfoodPirata
+namespace IfoodPirata.entity
 {
     internal class Ingrediente
     {
@@ -15,14 +16,14 @@ namespace IfoodPirata
 
         public Ingrediente()
         {
-          
+
         }
-        public Ingrediente(string nome, double preco, int quantidade,  TipoMedida medida )
+        public Ingrediente(string nome, double preco, int quantidade, TipoMedida medida)
         {
-            this.Nome = nome;
-            this.Preco = preco;
-            this.Quantidade = quantidade;
-            this.Medida = medida;
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+            Medida = medida;
         }
 
 

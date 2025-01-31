@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IfoodPirata
+namespace IfoodPirata.entity.@enum
 {
     public enum TipoMedida
     {
-        
+
         Unidade = 1,
         Gramas = 2,
         Mililitros = 3
-            
-       
+
+
     }
 }

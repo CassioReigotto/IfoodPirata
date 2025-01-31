@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IfoodPirata
+namespace IfoodPirata.entity
 {
     internal class Lanche
     {
@@ -20,6 +20,6 @@ namespace IfoodPirata
         }
 
 
-       
+
     }
 }
