@@ -1,4 +1,4 @@
-﻿/*MEU PROGRAMA*/
+﻿/*Anotacao*/
 
 using System.Diagnostics;
 using System.Linq;
